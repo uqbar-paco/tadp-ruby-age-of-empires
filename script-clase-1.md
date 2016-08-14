@@ -1,3 +1,8 @@
+---
+layout: page
+description: Script Clase 1 - Aspectos Administrativos / Modulos
+---
+
 # Clase 1 TADP 1C2016
 
 ## Aspectos administrativos:
