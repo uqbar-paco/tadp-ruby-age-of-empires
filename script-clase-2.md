@@ -1,6 +1,6 @@
 ---
 layout: page
-description: Script Clase 1 - Aspectos Administrativos / Modulos
+description: Script Clase 2 - Continuación ejercicio age of empires
 ---
 
 Clase 2 TADP 2C2016
